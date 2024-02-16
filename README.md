@@ -1,3 +1,5 @@
-# giphy_chilli
+<<<<<<< HEAD
 
-A new Flutter project.
+=======
+
+>>>>>>> origin/main
